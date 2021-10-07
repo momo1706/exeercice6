@@ -1,0 +1,84 @@
+
+
+#premiereligne{
+    display: flex;
+    flex-direction: row;
+}
+
+
+#elementvert{
+    background-color: green;
+    width: 1200px;
+    height: 40px;
+    
+
+}
+#elementbleu{
+    background-color: blue;
+    width: 400px;
+    height: 40px;
+}
+#deuxiemeligne{
+    display: flex;
+    
+}
+
+#elementrouge
+{
+    background-color: red;
+    width: 520px;
+    height: 40px;
+}
+    #elementorange
+    {
+        background-color: orange;
+        width: 520px;
+        height: 40px;
+    }
+    #elementgris{
+        background-color: grey;
+        width: 520px;
+        height: 40px;
+    }
+    
+    #troisiemeligne{
+        display: flex;
+        flex-direction: row;
+    }
+    #elementrougedeux{
+        background-color:red ;
+        width: 520px;
+        height: 40px;
+    }
+    #elementjaune{
+        background-color: yellow;
+        width: 347px;
+        height: 40px;
+    }
+    #elementvertdeux{
+        background-color: green;
+        width: 347px;
+        height: 40px0;
+    }
+    #elementorangedeux{
+        background-color: orangered;
+        width: 347px;
+        height: 40px;
+    }
+
+
+    #quatriemeligne{
+    display: flex;
+    flex-direction: row;
+}
+#elementgrisdeux{
+    background-color: darkblue;
+    width: 1520px;
+    height: 300px;
+}
+
+
+
+    
+
+
